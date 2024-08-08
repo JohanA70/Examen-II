@@ -1,0 +1,19 @@
+
+body.custom-bg{
+    background-color: #f8f6f6;
+  }
+  
+  footer {
+    background: linear-gradient(to right, #C8E6C9, #BBDEFB);
+    color: #333; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .shadow{
+    background-color: #f8f6f6;
+  }
+  .header{
+    background: linear-gradient(to right, #C8E6C9, #BBDEFB);
+    color: #333; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
